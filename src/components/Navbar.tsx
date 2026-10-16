@@ -17,7 +17,7 @@ export default function Navbar() {
               <input
                 type="text"
                 placeholder="Search games, players, or posts..."
-                className="w-full bg-gray-700 text-gray-100 pl-10 pr-4 py-2 rounded-lg focus:outline-none focus:ring-2 focus:ring-purple-500"
+                className="w-full bg-gray-700 text-gray-100 pl-10 pr-4 py-2 rounded-lg focus:outline-hidden focus:ring-2 focus:ring-purple-500"
               />
             </div>
           </div>
