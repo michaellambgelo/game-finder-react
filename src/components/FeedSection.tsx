@@ -43,7 +43,7 @@ export default function FeedSection() {
           <input
             type="text"
             placeholder="Share your gaming moments..."
-            className="flex-1 bg-gray-700 rounded-lg px-4 focus:outline-none focus:ring-2 focus:ring-purple-500"
+            className="flex-1 bg-gray-700 rounded-lg px-4 focus:outline-hidden focus:ring-2 focus:ring-purple-500"
           />
         </div>
       </div>
