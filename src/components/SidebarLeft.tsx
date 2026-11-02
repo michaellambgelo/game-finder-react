@@ -1,4 +1,3 @@
-import React from 'react';
 import { Home, Users, Trophy, Gamepad2, Star, Settings } from 'lucide-react';
 
 export default function SidebarLeft() {

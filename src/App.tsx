@@ -1,5 +1,3 @@
-import React from 'react';
-import { Users, GamepadIcon, Bell, MessageSquare, Search, Menu } from 'lucide-react';
 import Navbar from './components/Navbar';
 import FeedSection from './components/FeedSection';
 import SidebarLeft from './components/SidebarLeft';

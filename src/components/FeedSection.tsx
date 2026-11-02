@@ -1,4 +1,3 @@
-import React from 'react';
 import { Heart, MessageCircle, Share2, Trophy } from 'lucide-react';
 
 export default function FeedSection() {

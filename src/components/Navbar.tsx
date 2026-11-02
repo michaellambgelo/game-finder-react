@@ -1,5 +1,4 @@
-import React from 'react';
-import { Users, GamepadIcon, Bell, MessageSquare, Search, Menu } from 'lucide-react';
+import { GamepadIcon, Bell, MessageSquare, Search, Menu } from 'lucide-react';
 
 export default function Navbar() {
   return (
